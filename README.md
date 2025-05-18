@@ -8,7 +8,12 @@
 * TODO.
 
 ### gmsh: Mesh File Generation
-* TODO.
+#### Installation
+* `$ sudo apt install gmsh`
+* Check installation:
+* `$ gmsh --version`
+* Should get something like:
+* `4.4.1`.
 ## Requirements
 * __Compiler__: `g++ 13.1.0`.
 * __OS__: `Ubuntu 20.04`.
