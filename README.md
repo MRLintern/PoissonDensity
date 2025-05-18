@@ -1,5 +1,6 @@
 # PoissonDensity
-2D C++17 Solver for solving Poissons Equation in order to find the Mass-Density Distribution within Earth's Mantle
+## Summary
+* __2D C++17 Solver__ for solving __Poissons Equation__ in order to find the __Mass-Density Distribution__ within __Earth's Mantle__.
 
 ## Introduction
 * TODO.
