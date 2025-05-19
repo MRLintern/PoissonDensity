@@ -18,6 +18,8 @@
 * `$ gmsh --version`
 * Should get something like:
 * `4.4.1`.
+#### Using Gmsh
+* TODO.
 ## Requirements
 * __Compiler__: `g++ 13.1.0`.
 * __OS__: `Ubuntu 20.04`.
