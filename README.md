@@ -19,7 +19,9 @@
 * Should get something like:
 * `4.4.1`.
 #### Using Gmsh
-* TODO.
+* You need to create a `.geo` script (`annulus.geo`) which specifies the geometry of the problem domain; see the `gmsh` directory which contains a `C++ reader`.
+* Once you've created the script, you need to create the ___mesh file___, `annulus.msh`; see below:
+* `$ gmsh -2 annulus.geo -format msh2 -o annulus.msh`. 
 ## Requirements
 * __Compiler__: `g++ 13.1.0`.
 * __OS__: `Ubuntu 20.04`.
