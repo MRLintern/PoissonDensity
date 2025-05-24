@@ -35,7 +35,7 @@
 ### Tikhonov Regularization
 * TODO.
 
-### Gmsh: Mesh File Generation
+## Gmsh: Mesh File Generation
 #### What is it
 * [gmsh](https://Gmsh.info/) is an open source __3D Finite Element Mesh Generator__ with a built-in CAD engine and post-processor.
 * For more information (e.g. tutorial), see the link above.
