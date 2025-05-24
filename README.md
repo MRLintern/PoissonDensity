@@ -7,6 +7,7 @@
 * A __2D Annulus Shaped Mesh__ has been created using [gmsh](https://Gmsh.info/); see the __GmshReader__ folder to find the software which reads in the mesh file, `annulus.msh`.
 * This file represents a __2D Slice of Earth's Interior__.
 * The reader generates 3 files: `nodes.dat`, `triangles.dat` and `boundary_nodes.dat`. These are then used by the application to solve the __2D Poisson Equation__.
+* Note: `annulus.geo`, `annulus.msh` `nodes.dat`,`triangles.dat` and `boundary_nodes.dat` have been provided so you don't actually need to use `GmshReader`; its there if you want to alter the mesh file to configure a different geometry etc.
 
 ## Problem Specification
 * The __Earth’s Mantle__ is __Non-Uniform__, and variations in __Density__ (due to __Temperature__, __Composition__, __Phase-Changes__) create __Gravitational Anomalies__.
