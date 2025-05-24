@@ -29,6 +29,12 @@
     5. __Interpretation__: Analyze __Density Variations__ to infer __Mantle Structure__.
 * __Boundary Conditions__: __Dirichlet__.
 
+### Conjugate Gradient Method
+* TODO.
+
+### Tikhonov Regularization
+* TODO.
+
 ### Gmsh: Mesh File Generation
 #### What is it
 * [gmsh](https://Gmsh.info/) is an open source __3D Finite Element Mesh Generator__ with a built-in CAD engine and post-processor.
